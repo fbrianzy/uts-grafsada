@@ -1,1 +1,4 @@
+Salin dan tempel di terminal CMD atau Powershell:
+```bash
 curl.exe -L -o ecommerce-dataset.zip https://www.kaggle.com/api/v1/datasets/download/retailrocket/ecommerce-dataset
+```
